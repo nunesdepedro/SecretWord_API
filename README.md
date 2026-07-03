@@ -49,14 +49,6 @@ app/
 ├── services/
 ├── dependencies/
 │
-tests/
-│
-├── auth/
-├── passwords/
-├── users/
-├── security/
-└── integration/
-│
 data/
 │
 alembic/
