@@ -113,7 +113,7 @@ Create a `.env` file in the project root.
 Example:
 
 ```env
-DATABASE_URL=postgresql+psycopg2://secretword:password@localhost:5432/secretword
+DATABASE_URL=sqlite:///./dbexample.db
 
 SECRET_KEY=your_secret_key
 
